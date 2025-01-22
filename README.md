@@ -1,2 +1,2 @@
 # html-portfolio
-Making others live easier
+Making others life easier
